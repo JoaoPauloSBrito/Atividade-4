@@ -1,8 +1,8 @@
-# Título: Página Web - TalentoTech
-# Página Web com CSS
+# Título: Calculadora IMC - TalentoTech
+# Calculadora de IMC
 
 ## Objetivo do Projeto
-Este projeto tem como objetivo criar uma página web que apresenta o perfil de um usuário, com suas formações acadêmicas, e profissionais.
+Este projeto tem como objetivo criar uma calculadora de Índice de Massa Corporal (IMC) que permita ao usuário inserir seu peso e altura e, com base nisso, classifique o IMC de acordo com faixas de peso.
 
 ## Funcionalidades
 - **Entrada de Dados:** O usuário poderá inserir seu peso (em kg) e altura (em metros, com casas decimais).
